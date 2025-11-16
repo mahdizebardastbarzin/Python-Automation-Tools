@@ -117,6 +117,13 @@ python -m automation_tools.image_resizer /path/to/images --width 800 --height 60
 5. Pull Request  
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) to get started.
+
+## 🤝 مشارکت
+
+مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید.
 
 ## مجوز / License
 
@@ -138,3 +145,4 @@ This project is licensed under the MIT License.
 </div>
 
 </div>
+
